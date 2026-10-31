@@ -8,20 +8,20 @@ You can ask around on the discord if you would like someone to make your figurin
 ### What you'll need to make a figurine
 
 - **Your figurine name.** Written from the perspective of someone who doesn't know your character
-:white_check_mark: slime Chief Engineer figurine
-:white_check_mark: green lizard bartender figurine
-:white_check_mark: tall janitor figurine
-:x: Tania Buttersworth figurine
-:x: extremely cool lizard figurine
-:x: that guy's figurine
+  - :white_check_mark: slime Chief Engineer figurine
+  - :white_check_mark: green lizard bartender figurine
+  - :white_check_mark: tall janitor figurine
+  - :x: Tania Buttersworth figurine
+  - :x: extremely cool lizard figurine
+  - :x: that guy's figurine
 
 - **Your figurine description.** Again, written from the perspective of someone who doesn't know your character. Should start with "A figurine depicting..."
-:white_check_mark: "A figurine depicting a pink slime chief engineer, with numerous tentacles and a tiny fire axe."
-:white_check_mark: "A figurine depicting a lizard. They look like a goober."
-:white_check_mark: "A figurine depicting a dishevelled catgirl."
-:x: "Some guy idk"
-:x: "They look like a guy you know"
-:x: "A figurine of Tania Buttersworth in her engineering uniform"
+  - :white_check_mark: "A figurine depicting a pink slime chief engineer, with numerous tentacles and a tiny fire axe."
+  - :white_check_mark: "A figurine depicting a lizard. They look like a goober."
+  - :white_check_mark: "A figurine depicting a dishevelled catgirl."
+  - :x: "Some guy idk"
+  - :x: "They look like a guy you know"
+  - :x: "A figurine of Tania Buttersworth in her engineering uniform"
 
 - **Your figurine voice lines.** Anywhere from 3-5 iconic or common statements, such as a passing greeting, a catchphrase, something they often say on the job or a throwback to a round they remember well.
   - Voice lines can contain identifiers, like a characters name.
